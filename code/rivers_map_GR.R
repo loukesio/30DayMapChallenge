@@ -59,5 +59,5 @@ map3 <- ggplot() +
                                 lineheight = 1.5,
                                 margin = margin(0, 12, 6, 200)))
 
-
-ggsave("hex_map_GR.pdf", width = 12, height = 11.63, device = cairo_pdf)
+ggsave(here("plots","rivers_map_GR.pdf"), width = 12, height = 11.63, device = cairo_pdf)
+ggsave(here("plots","rivers_map_GR.png"), width = 12, height = 11.63, dpi=300)
