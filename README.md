@@ -1,5 +1,7 @@
 # 30DayMapChallenge
 
+## The challenge 
+![challenge](30dmpc_2021.png?raw)
 
 [day2 - lines](https://github.com/loukesio/30DayMapChallenge/blob/main/code/rivers_map_GR.R)
 
