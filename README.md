@@ -1,10 +1,11 @@
 # 30DayMapChallenge
 
 
-[rivers_GR](https://github.com/loukesio/30DayMapChallenge/blob/main/code/rivers_map_GR.R)
+[day2 - lines](https://github.com/loukesio/30DayMapChallenge/blob/main/code/rivers_map_GR.R)
 
-(./plots/rivers_map_GR.png)
+![rivers_GR](./plots/rivers_map_GR.png?raw)
 
-[IUCN_data](https://github.com/loukesio/30DayMapChallenge/blob/main/code/hex_map_GR.R)
 
-(./plots/hex_map_GR.png)
+[day4 - hex](https://github.com/loukesio/30DayMapChallenge/blob/main/code/hex_map_GR.R)
+
+![IUCN_data](./plots/hex_map_GR.png?raw)
